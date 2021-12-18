@@ -1,0 +1,2 @@
+adding 2nd line to existing file >> file1.txt
+echo Another 2nd File
